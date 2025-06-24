@@ -1,0 +1,8 @@
+{
+  "name": "AXD App Alpha",
+  "description": "Tool to manage repos and automate GitHub actions.",
+  "homepage_url": "http://localhost:3000",
+  "auth_callback_url": "http://localhost:3000/callback",
+  "device_flow_enabled": true
+}
+
